@@ -1,6 +1,5 @@
 "use client";
 import { motion } from "framer-motion";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function About() {
   return (
