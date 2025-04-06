@@ -16,13 +16,13 @@ export default function About() {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8">
               <div className="flex-1">
                 <p className="text-gray-600 dark:text-gray-300 mb-6">
-                  Hi there! I'm a web developer passionate about creating exceptional digital experiences. 
+                  Hi there! I&apos;m a web developer passionate about creating exceptional digital experiences. 
                   I specialize in building efficient and scalable web applications with a strong focus on user experience 
                   and modern best practices.
                 </p>
                 <p className="text-gray-600 dark:text-gray-300 mb-6">
                   My tech stack primarily includes SFCC, C# ASP.NET MVC, Javascript, TypeScript, Node.js, React, and Next.js. 
-                  I'm also deeply interested in backend development and database architecture, 
+                  I&apos;m also deeply interested in backend development and database architecture, 
                   always striving to create robust full-stack solutions.
                 </p>
               </div>

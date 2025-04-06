@@ -15,8 +15,8 @@ export default function Contact() {
                     <h2 className="text-3xl font-bold text-center mb-12">Get In Touch</h2>
                     <div className="max-w-lg mx-auto text-center">
                         <p className="text-gray-600 dark:text-gray-300 mb-8">
-                            I'm always open to new opportunities and interesting projects.
-                            Feel free to reach out if you'd like to connect!
+                            I&apos;m always open to new opportunities and interesting projects.
+                            Feel free to reach out if you&apos;d like to connect!
                         </p>
                         <div className="flex justify-center items-center space-x-8">
                             <motion.a

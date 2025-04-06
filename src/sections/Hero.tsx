@@ -18,7 +18,7 @@ export default function Hero() {
           className="text-center md:text-left"
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Hi, I'm <span className="text-blue-600">Charlie Shim</span>
+            Hi, I&apos;m <span className="text-blue-600">Charlie Shim</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-6">
             Full Stack Developer
