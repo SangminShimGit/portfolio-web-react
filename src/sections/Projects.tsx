@@ -2,26 +2,25 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import forever21Image from '@/assets/images/forever21_home.png';
-import reactImage from '@/assets/images/react.png';
+import xxiImage from '@/assets/images/xxi.jpg';
 
 const projects = [
   {
     title: "Salesforce Commerce Cloud",
     description: "Migration from MS Commerce Server to Salesforce Commerce Cloud",
-    tech: ["Salesforce Commerce Cloud", "C# ASP.NET MVC", "Javascript", "MSSQL"],
+    tech: ["Salesforce Commerce Cloud", "C# ASP.NET MVC", "Restful API", "Javascript", "jQuery", "MSSQL"],
     image: forever21Image,
     link: "",
     github: ""
   },
   {
-    title: "Simple React App",
-    description: "A simple React app with a cart page",
-    tech: ["React", "Typescript", "Node.js", "Next.js"],
-    image: reactImage,
-    link: "https://calm-rock-03c4a0e10.6.azurestaticapps.net/cart",
+    title: "Headless e-Commerce website with MS Commerce Server",
+    description: "Headless e-Commerce website with MS Commerce Server",
+    tech: ["MS Commerce Server", "C# ASP.NET MVC", "Restful API", "Javascript", "jQuery", "MSSQL"],
+    image: xxiImage,
+    link: "",
     github: ""
-  },
-  // 더 많은 프로젝트 추가 가능
+  }
 ];
 
 export default function Projects() {
