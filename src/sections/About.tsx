@@ -21,9 +21,9 @@ export default function About() {
                   and modern best practices.
                 </p>
                 <p className="text-gray-600 dark:text-gray-300 mb-6">
-                  My tech stack primarily includes SFCC, C# ASP.NET MVC, Javascript, TypeScript, Node.js, React, and Next.js. 
-                  I&apos;m also deeply interested in backend development and database architecture, 
-                  always striving to create robust full-stack solutions.
+                  My tech stack primarily includes SFCC, C# ASP.NET MVC, Javascript, TypeScript, Node.js, React, and Next.js.
+                  Experienced in building and maintaining multi-regional e-commerce platforms with integrated payment solutions such as Chase Orbital, Cybersource, Adyen, PayPal, and Braintree.
+                  Passionate about backend development and database architecture, with a focus on delivering robust, scalable full-stack solutions.
                 </p>
               </div>
             </div>
