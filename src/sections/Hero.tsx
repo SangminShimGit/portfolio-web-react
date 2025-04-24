@@ -33,7 +33,7 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <motion.button 
               onClick={scrollToContact}
-              className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-all"
+              className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-all cursor-pointer"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
@@ -41,7 +41,7 @@ export default function Hero() {
             </motion.button>
             <motion.button 
               onClick={scrollToAbout}
-              className="border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-50 transition-all"
+              className="border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-full hover:bg-blue-50 transition-all cursor-pointer"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
